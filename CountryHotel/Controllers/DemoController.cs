@@ -11,7 +11,7 @@ namespace CountryHotel.Controllers
     [ApiController]
     public class DemoController : ControllerBase
     {
-        private static CustomServices.CustomServices _customServices = new CustomServices.CustomServices();
+        private static CustomServices.CustomServices _customServices = new();
         
         [Route("/hello")]
         [HttpGet]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Cqtonm9seQNQdILbEQRTYbha6Jk8AYZWmaRUYbFP37yuGTRHh9VzZbXUigrHQS/Shb3t+GyxELG5iSAd0NoRJw==",
+  "dgSpecHash": "yQMIn6VsjVs+9PdLbCX0adWmVveUSni4JXDfZotfheO0VsG8IfwTTrlMAI24/MRKaG+C/0YHtxEHbXqinrXp9g==",
   "success": true,
   "projectFilePath": "/Users/thn/RiderProjects/CountryHotel/CountryHotel/CountryHotel.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/thn/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/thn/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/thn/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "/Users/thn/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.17/microsoft.aspnetcore.jsonpatch.5.0.17.nupkg.sha512",
+    "/Users/thn/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.17/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.17.nupkg.sha512",
     "/Users/thn/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "/Users/thn/.nuget/packages/microsoft.aspnetcore.razor.language/5.0.0/microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
     "/Users/thn/.nuget/packages/microsoft.aspnetcore.razor.runtime/2.2.0/microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
@@ -63,7 +65,8 @@
     "/Users/thn/.nuget/packages/microsoft.visualstudio.web.codegenerators.mvc/5.0.2/microsoft.visualstudio.web.codegenerators.mvc.5.0.2.nupkg.sha512",
     "/Users/thn/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/Users/thn/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/Users/thn/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/thn/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/thn/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/thn/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
     "/Users/thn/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512",
     "/Users/thn/.nuget/packages/serilog.aspnetcore/6.0.0-dev-00265/serilog.aspnetcore.6.0.0-dev-00265.nupkg.sha512",
